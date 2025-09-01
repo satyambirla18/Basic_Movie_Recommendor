@@ -24,6 +24,6 @@ This project uses the MovieLens dataset or data from The Movie Database (TMDb).
 	•	Content-Based Filtering: Recommends movies similar to a selected movie based on genre, description, etc.
 	•	Collaborative Filtering (Optional): Based on user ratings and preferences.
 
-###📄 License
+### 📄 License
 
 This project is licensed under the MIT License.
